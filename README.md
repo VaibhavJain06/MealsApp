@@ -1,4 +1,4 @@
-# flutter_rev
+# Meals_App
 
 A new Flutter project.
 
