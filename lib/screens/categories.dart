@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_rev/data/Dummy_Data.dart';
-import 'package:flutter_rev/models/Meal.dart';
-import 'package:flutter_rev/models/category.dart';
-import 'package:flutter_rev/screens/meals.dart';
-import 'package:flutter_rev/widgets/category_grid_item.dart';
+import 'package:Meals_App/data/Dummy_Data.dart';
+import 'package:Meals_App/models/Meal.dart';
+import 'package:Meals_App/models/category.dart';
+import 'package:Meals_App/screens/meals.dart';
+import 'package:Meals_App/widgets/category_grid_item.dart';
 
 class CategoriesScreen extends StatefulWidget {
   const CategoriesScreen({super.key, required this.availableMeal});
