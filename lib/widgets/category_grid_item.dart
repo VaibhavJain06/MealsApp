@@ -1,5 +1,6 @@
+import 'package:Meals_App/models/category.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_rev/models/category.dart';
+
 
 class CategoryGridItem extends StatelessWidget {
   const CategoryGridItem(
@@ -20,8 +21,8 @@ class CategoryGridItem extends StatelessWidget {
           borderRadius: BorderRadius.circular(16),
           gradient: LinearGradient(
             colors: [
-              category.color.withOpacity(0.55),
-              category.color.withOpacity(0.9),
+              category.color,
+              category.color,
             ],
             begin: Alignment.topLeft,
             end: Alignment.bottomRight,
