@@ -1,16 +1,30 @@
-# Meals_App
+## Meals App
 
-A new Flutter project.
+A Meals App built using Flutter and Provider for state management. This app allows users to browse, filter, and save their favorite meals with a beautiful and responsive UI.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+**Browse Meals** – View a variety of delicious meal options.
 
-A few resources to get you started if this is your first Flutter project:
+**Filter Meals** – Filter meals based on dietary preferences.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+**Favorite Meals** – Save meals to a favorites list.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**Modern UI** – Clean and intuitive design.
+
+**State Management** – Managed efficiently using Provider.
+
+## Tech Stack
+
+**Framework:**  Flutter
+
+**Language:**  Dart
+
+**State Management:**  Provider
+
+## Contribution
+
+Feel free to contribute! 
+
+
+
